@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://elite-group.pages.dev/sitemap.xml
